@@ -1,0 +1,41 @@
+title,artist,url,license,mood,mode,filename
+Upbeat pop demo 1,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),happy,mirror,happy/demo_happy_01.mp3
+Upbeat pop demo 2,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),happy,mirror,happy/demo_happy_02.mp3
+Upbeat pop demo 3,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),happy,mirror,happy/demo_happy_03.mp3
+Upbeat pop demo 4,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),happy,mirror,happy/demo_happy_04.mp3
+Upbeat pop demo 5,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),happy,mirror,happy/demo_happy_05.mp3
+Calm acoustic demo 1,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),sad,mirror,sad/demo_sad_01.mp3
+Calm acoustic demo 2,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),sad,mirror,sad/demo_sad_02.mp3
+Calm acoustic demo 3,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),sad,mirror,sad/demo_sad_03.mp3
+Calm acoustic demo 4,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),sad,mirror,sad/demo_sad_04.mp3
+Calm acoustic demo 5,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),sad,mirror,sad/demo_sad_05.mp3
+Gentle hopeful acoustic demo 1,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),sad,regulate,sad/regulate/demo_sad_regulate_01.mp3
+Gentle hopeful acoustic demo 2,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),sad,regulate,sad/regulate/demo_sad_regulate_02.mp3
+Gentle hopeful acoustic demo 3,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),sad,regulate,sad/regulate/demo_sad_regulate_03.mp3
+Gentle hopeful acoustic demo 4,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),sad,regulate,sad/regulate/demo_sad_regulate_04.mp3
+Gentle hopeful acoustic demo 5,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),sad,regulate,sad/regulate/demo_sad_regulate_05.mp3
+Intense rock/electronic demo 1,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),angry,mirror,angry/demo_angry_01.mp3
+Intense rock/electronic demo 2,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),angry,mirror,angry/demo_angry_02.mp3
+Intense rock/electronic demo 3,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),angry,mirror,angry/demo_angry_03.mp3
+Intense rock/electronic demo 4,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),angry,mirror,angry/demo_angry_04.mp3
+Intense rock/electronic demo 5,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),angry,mirror,angry/demo_angry_05.mp3
+Slow calming ambient demo 1,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),angry,regulate,angry/regulate/demo_angry_regulate_01.mp3
+Slow calming ambient demo 2,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),angry,regulate,angry/regulate/demo_angry_regulate_02.mp3
+Slow calming ambient demo 3,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),angry,regulate,angry/regulate/demo_angry_regulate_03.mp3
+Slow calming ambient demo 4,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),angry,regulate,angry/regulate/demo_angry_regulate_04.mp3
+Slow calming ambient demo 5,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),angry,regulate,angry/regulate/demo_angry_regulate_05.mp3
+Relaxed lo-fi demo 1,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),neutral,mirror,neutral/demo_neutral_01.mp3
+Relaxed lo-fi demo 2,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),neutral,mirror,neutral/demo_neutral_02.mp3
+Relaxed lo-fi demo 3,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),neutral,mirror,neutral/demo_neutral_03.mp3
+Relaxed lo-fi demo 4,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),neutral,mirror,neutral/demo_neutral_04.mp3
+Relaxed lo-fi demo 5,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),neutral,mirror,neutral/demo_neutral_05.mp3
+Energetic playful electronic demo 1,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),surprised,mirror,surprised/demo_surprised_01.mp3
+Energetic playful electronic demo 2,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),surprised,mirror,surprised/demo_surprised_02.mp3
+Energetic playful electronic demo 3,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),surprised,mirror,surprised/demo_surprised_03.mp3
+Energetic playful electronic demo 4,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),surprised,mirror,surprised/demo_surprised_04.mp3
+Energetic playful electronic demo 5,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),surprised,mirror,surprised/demo_surprised_05.mp3
+Light bright instrumental demo 1,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),surprised,regulate,surprised/regulate/demo_surprised_regulate_01.mp3
+Light bright instrumental demo 2,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),surprised,regulate,surprised/regulate/demo_surprised_regulate_02.mp3
+Light bright instrumental demo 3,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),surprised,regulate,surprised/regulate/demo_surprised_regulate_03.mp3
+Light bright instrumental demo 4,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),surprised,regulate,surprised/regulate/demo_surprised_regulate_04.mp3
+Light bright instrumental demo 5,MoodTune generator,tools/generate_demo_music.py,Original work (CC0),surprised,regulate,surprised/regulate/demo_surprised_regulate_05.mp3

@@ -1,0 +1,13 @@
+fer
+tensorflow
+opencv-python
+pygame
+streamlit
+numpy>=2
+pandas
+scikit-learn
+matplotlib
+moviepy<2.0
+setuptools<81  # fer imports pkg_resources
+psutil
+pytest
